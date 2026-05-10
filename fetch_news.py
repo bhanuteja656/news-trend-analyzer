@@ -15,7 +15,7 @@ CREATE TABLE RawArticles(
 )
 ''')
 # API URL
-url = "https://newsapi.org/v2/everything?q=india&apiKey=e1387aa9e0ea47f5aaf1f599c5283bed"
+url = "https://newsapi.org/v2/everything?q=india&apiKey=aplkey"
 # SSL context
 ctx = ssl.create_default_context()
 ctx.check_hostname = False
